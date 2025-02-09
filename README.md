@@ -1,4 +1,4 @@
-# Data Structure Visualizer
+# SchemaViz : Data Structure Visualizer
 
 A modern web application for visualizing and working with JSON data structures and SQL database schemas. Built with Next.js and TypeScript, featuring a clean and intuitive interface.
 
@@ -9,7 +9,6 @@ A modern web application for visualizing and working with JSON data structures a
 - **Interactive Tree View**: Visualize JSON data in a collapsible tree structure
 - **JSON Formatting**: Automatically format and validate JSON input
 - **Path Navigation**: Click on any node to see its access path
-- **Syntax Highlighting**: Different colors for different data types
 - **Error Handling**: Clear error messages for invalid JSON
 - **Auto-formatting**: Convert single quotes to double quotes and fix common JSON syntax issues
 - **Visual Hierarchy**: Clear indentation and connecting lines for better readability
